@@ -1,0 +1,36 @@
+# directories to ignore
+flickr8k_download/
+ftm/
+results/
+fine-tuned-model/
+
+# ignore text files
+*.txt
+
+# ignore json files
+*.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore virtual environment directory
+venv/
